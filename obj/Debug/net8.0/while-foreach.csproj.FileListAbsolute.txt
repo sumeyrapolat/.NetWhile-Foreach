@@ -1,0 +1,14 @@
+C:\Users\sumey\Source\repos\while-foreach\bin\Debug\net8.0\while-foreach.exe
+C:\Users\sumey\Source\repos\while-foreach\bin\Debug\net8.0\while-foreach.deps.json
+C:\Users\sumey\Source\repos\while-foreach\bin\Debug\net8.0\while-foreach.runtimeconfig.json
+C:\Users\sumey\Source\repos\while-foreach\bin\Debug\net8.0\while-foreach.dll
+C:\Users\sumey\Source\repos\while-foreach\bin\Debug\net8.0\while-foreach.pdb
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.AssemblyInfoInputs.cache
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.AssemblyInfo.cs
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.csproj.CoreCompileInputs.cache
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.dll
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\refint\while-foreach.dll
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.pdb
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\while-foreach.genruntimeconfig.cache
+C:\Users\sumey\Source\repos\while-foreach\obj\Debug\net8.0\ref\while-foreach.dll
